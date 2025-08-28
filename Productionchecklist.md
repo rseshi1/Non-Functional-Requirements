@@ -1,7 +1,7 @@
 # Production Readiness Checklist for OCP Migrations
 
 ## 1. Pre-Migration Assessment
-- [ ] **Application Inventory**  
+- [X] **Application Inventory**  
   - [ ] List all applications, namespaces, pipelines, databases, and dependencies  
   - [ ] Identify apps with external integrations (DBs, APIs, message queues, etc.)  
 - [ ] **Compatibility & Versioning**  
